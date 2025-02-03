@@ -3,5 +3,4 @@ Welcome to the jm12312/Dev_ops_exp2 repository! Here you'll find all the resourc
 Feel free to explore and contribute.  
 Let's try git!
 
-hi welcome
-tryry
+I am going to try a new branch
